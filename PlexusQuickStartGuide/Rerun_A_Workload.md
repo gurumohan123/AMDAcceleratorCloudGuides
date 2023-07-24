@@ -8,7 +8,7 @@
     
    ![image](https://github.com/amddcgpuce/AMDAcceleratorCloudGuides/assets/137475062/d62dc96e-e37a-42b3-9b0e-72445014a621)
 
- **2. Click on Workloads and Select the desire workload needs to be rerun.here PyTorch 1-12-1 ROCm5-4 Python 3-8-1690190921241 queue is selected**
+ **2. Click on Workloads and Select the desire workload needs to be rerun.here PyTorch 1-12-1 ROCm5-4 Python 3-8-1690190921241 application is selected**
  
    ![workloads](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/86c8bf16-24b4-49b5-b053-b6cb87cf58e8)
    ![select workload](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/0ac283ad-2aae-40d1-af2c-fa5f867d1c31)
