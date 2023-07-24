@@ -12,9 +12,10 @@
 
    ![Jammy_app](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/81a8e243-ecc7-47de-abb0-0611398c77a3)
 
- **3. Click on 'New Workload' button available on the top right corner.**
+ **3. Click on 'New Workload' button available in the top right corner.**
 
-   ![Workloads_any](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/6d8091b1-672d-4991-b3a2-1a4cf949e3c4)
+   ![New_workload](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/99cef9af-060a-43ab-a4fa-f3a56b6be130)
+
 
  **4. Click on Next button available in the right corner.**
 
@@ -35,7 +36,7 @@
    ![run3](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/2afdfebc-e830-4a3f-a712-197377636a0f)
    ![run4](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/06d5b0a8-15d6-4542-8ea0-de66714ae229)
 
- **10. Once the application execution is started then the status gets changed into 'Preparing','Pending','Sent','Running' state. The user has to wait to see the INTERACTIVE ENDPOINTS to access the interactive shell. get the username and password from the STDOUT tab and click on Connect. **
+ **10. Once the application execution is started then the status gets changed into 'Preparing','Pending','Sent','Running' state. The user has to wait to see the INTERACTIVE ENDPOINTS to access the interactive shell. get the username and password from the STDOUT tab and click on Connect.**
  
    ![username and password](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/ea5f9b02-decc-40f6-b58d-752a8af85770)
    ![Connect](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/45d0302a-9381-44eb-ba61-d915e6d1668c)
@@ -46,7 +47,7 @@
    ![copy shell](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/a38d6edb-8016-449f-9fca-5a8ab2f49796)
    ![username](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/43a0eac6-6df8-473a-ae0e-a7344c9004b1)
 
- **12. Once interactive shell access is verified Click on "FINISH WORKLOAD" button the click on Yes to complete the workload**
+ **12. Once interactive shell access is verified Click on "FINISH WORKLOAD" button and click on Yes to complete the workload**
    
    ![finish](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/64be0cc0-dc2b-4239-82dd-09aaff211c3a)
    ![yes](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/743a1762-df8b-4127-8852-a04f526f800f)
