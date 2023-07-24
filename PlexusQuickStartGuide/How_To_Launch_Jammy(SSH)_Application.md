@@ -43,8 +43,8 @@
    
  **11. Click on "Copy Shell Command" button, Open command prompt or Windows PowerShell and enter username and password.
   here username is aac and password is irRSFzt7WoCpwoCKD5P58qWhv0sCPQ5Y.**
-  
-   ![copy shell](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/a38d6edb-8016-449f-9fca-5a8ab2f49796)
+
+   ![copy](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/c8df9813-3326-40b2-9cb4-769ce7fd8e73)
    ![username](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/43a0eac6-6df8-473a-ae0e-a7344c9004b1)
 
  **12. Once interactive shell access is verified Click on "FINISH WORKLOAD" button and click on Yes to complete the workload**
