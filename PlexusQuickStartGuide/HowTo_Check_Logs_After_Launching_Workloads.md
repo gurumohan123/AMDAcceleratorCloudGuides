@@ -37,8 +37,9 @@
  
    ![STDERR](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/f63e7fac-3ae3-4a5a-b8f2-95dd2534875f)
 
-  STDERR: It stands for standard error. It is invoked whenever a command faces an error, then that error message gets stored in this data stream.
-  stdout: It stands for standard output, and is used to text output of any command , and then that output is stored in the stdout stream.
+  **STDERR: It stands for standard error. It is invoked whenever a command faces an error, then that error message gets stored in this data stream.**
+  
+  **STDOUT: It stands for standard output, and is used to text output of any command , and then that output is stored in the stdout stream.**
 
 
 
