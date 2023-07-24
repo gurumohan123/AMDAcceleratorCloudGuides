@@ -12,7 +12,7 @@
  
    ![Workloads](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/d7a4f29c-c075-40bd-9cd5-42fef486580f)
    
- 3.Select any completed workload from the list of workloads(for Ex: Gromacs 2022_3-1690169305484)
+ 3.Select any workload from the list of completed workloads(for Ex: Gromacs 2022_3-1690169305484)
  
    ![Workloads_any](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/7ad05cd1-8887-4641-9c2a-d17e5dff9ffd)
    
@@ -24,7 +24,7 @@
  
    ![daemon_logs](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/fdca1818-8aff-44d2-a659-4e5e75c238de)
 
- 6.Click on CLOSE and select STDOUT option for the output of any application(for ex: Throughput or Images/sec..etc).
+ 6.Click on CLOSE and select STDOUT option for the output of any launched application(for ex: Throughput or Images/sec..etc).
  
    ![STDOUT](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/682938f0-4646-42c9-a747-269b197249da)
    
@@ -32,7 +32,7 @@
  
    ![stdou_download](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/28d1d929-9f8c-4f10-8778-21cbc8bac864)
    
- 8.Click on STDERR for getting the errors of any application .
+ 8.Click on STDERR to find the errors of any application .
  
    ![STDERR](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/f63e7fac-3ae3-4a5a-b8f2-95dd2534875f)
 
