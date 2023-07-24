@@ -38,19 +38,24 @@
 
  **10. Once the application execution is started then the status gets changed into 'Preparing','Pending','Sent','Running' state. The user has to wait to see the INTERACTIVE ENDPOINTS to access the interactive shell. get the username and password from the STDOUT tab and click on Connect.**
  
-   ![username and password](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/ea5f9b02-decc-40f6-b58d-752a8af85770)
-   ![Connect](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/45d0302a-9381-44eb-ba61-d915e6d1668c)
+   ![username and password](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/1a4447d2-3b33-4f9e-ab8e-5f4eea0fce66)
+
+   ![Connect](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/dc067924-f138-4565-a667-650abe89b1db)
+
    
  **11. Click on "Copy Shell Command" button, Open command prompt or Windows PowerShell and enter username and password.
   here username is aac and password is irRSFzt7WoCpwoCKD5P58qWhv0sCPQ5Y.**
 
    ![copy](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/c8df9813-3326-40b2-9cb4-769ce7fd8e73)
-   ![username](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/43a0eac6-6df8-473a-ae0e-a7344c9004b1)
+   ![username](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/c9f2c01a-cd8c-4984-a4d9-f50dfec5b0f6)
+
+
 
  **12. Once interactive shell access is verified Click on "FINISH WORKLOAD" button and click on Yes to complete the workload**
    
-   ![finish](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/64be0cc0-dc2b-4239-82dd-09aaff211c3a)
-   ![yes](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/743a1762-df8b-4127-8852-a04f526f800f)
+   ![finish](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/5b70eb8d-553b-4742-965f-de40ce3ae7e8)
+   ![yes](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/e309714c-63b4-4358-849e-54d9b65b7a16)
+
 
    
 
