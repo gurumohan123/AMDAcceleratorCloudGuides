@@ -15,7 +15,7 @@
 
 **3. Click on Re-run Workload .**
 
-![click_rerun](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/efc27a91-36c1-4890-abe6-bc4db2d1908d)
+![click_rerun](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/f438a52e-05ac-43d8-ab29-54d33024af35)
 
 **4.Check all the required parameters like The number of GPUs should be 8, Click on Run Workload button.**
 ![run1](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/ff1ab03d-ec8b-480e-977e-e48d24d467e6)
