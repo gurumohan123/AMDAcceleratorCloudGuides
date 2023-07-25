@@ -12,7 +12,7 @@
  
    ![Workloads](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/d7a4f29c-c075-40bd-9cd5-42fef486580f)
    
- **3.Select any workload from the list of completed workloads(for Ex: Gromacs 2022_3-1690169305484).**
+ **3.Select any workload from the list of available workloads(for Ex: Gromacs 2022_3-1690169305484).**
  
    ![Workloads_any](https://github.com/gurumohan123/AMDAcceleratorCloudGuides/assets/137781570/7ad05cd1-8887-4641-9c2a-d17e5dff9ffd)
    
