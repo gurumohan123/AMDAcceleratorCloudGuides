@@ -1,6 +1,6 @@
 ***
 
-# How_To_Launch_Jammy(SSH)_Application...
+# How_To_Launch_Jammy(SSH)_Application.
 
 ***
 
